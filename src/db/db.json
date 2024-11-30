@@ -1,0 +1,37 @@
+[
+  {
+    "id": "c83cb469-e20f-4650-9d2b-4c419c0e8e8d",
+    "name": "June D'Amore",
+    "phone": "1-470-647-5390",
+    "email": "Sanford.West@gmail.com",
+    "job": "Principal Intranet Supervisor"
+  },
+  {
+    "id": "1ab0082e-c038-464d-9f97-0645473c4b3e",
+    "name": "Frank Wolf",
+    "phone": "(651) 928-3617 x091",
+    "email": "Misael.Pollich@gmail.com",
+    "job": "Principal Interactions Executive"
+  },
+  {
+    "id": "da4dfb60-55b6-4b69-94d3-9a7a56c81ff1",
+    "name": "Rita Lockman",
+    "phone": "1-249-806-5390 x8352",
+    "email": "Anika.Wilkinson@gmail.com",
+    "job": "Global Paradigm Developer"
+  },
+  {
+    "id": "ac1869da-11bd-47f0-9543-cabd6768d5bf",
+    "name": "Alexis Wisozk",
+    "phone": "(637) 239-9949 x5861",
+    "email": "Peter.Kutch-Reinger@yahoo.com",
+    "job": "Forward Response Consultant"
+  },
+  {
+    "id": "e15f5ebc-63e3-453f-ab9e-d758c09441e1",
+    "name": "Jennie Volkman",
+    "phone": "(600) 314-3920",
+    "email": "Stewart3@yahoo.com",
+    "job": "Legacy Factors Architect"
+  }
+]
